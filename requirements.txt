@@ -1,0 +1,6 @@
+python-telegram-bot[job-queue]==20.3
+requests>=2.28.0
+pytz>=2022.7
+telegram
+apscheduler
+flask
